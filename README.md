@@ -1,3 +1,9 @@
+# Changelog
+* Fix key warning
+* Fix style parsing
+* Support "transform" which is not yet included in h ttps://github.com/vault-development/react-native-svg-uri/releases/tag/v1.2.3
+
+
 # react-native-svg-uri
 Render SVG images in React Native from an URL or a static file
 
